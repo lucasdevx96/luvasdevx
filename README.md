@@ -1,6 +1,5 @@
 # Hello! Developer under construction 🚀
 # cursando ADS ☕💻
-# mudando de carreira 💼
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:15px; border:1px solid #30363d;">
 
   <h1 style="color:#58a6ff;">👨‍💻 Lucas Silva</h1>
